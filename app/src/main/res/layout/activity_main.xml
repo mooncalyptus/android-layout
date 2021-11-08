@@ -8,7 +8,7 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="85dp"
+        android:layout_width="90dp"
         android:layout_height="20dp"
         android:text="Email"
         android:textColor="@color/black"
